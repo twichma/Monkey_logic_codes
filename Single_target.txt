@@ -1,0 +1,4 @@
+Condition	Frequency	Block	Timing File	TaskObject#1	TaskObject#2	TaskObject#3	TaskObject#4
+1	1	1	ag_6n_TTL	crc(5,[0 206 209],1,10,-5)	snd(sin,0.5,1000)	ttl(1)	ttl(2)
+2	1	1	ag_6n_TTL	crc(5,[0 206 209],1,0,-5)	snd(sin,0.5,1000)	ttl(1)	ttl(2)
+3	1	1	ag_6n_TTL	crc(5,[0 206 209],1,-10,-5)	snd(sin,0.5,1000)	ttl(1)	ttl(2)
